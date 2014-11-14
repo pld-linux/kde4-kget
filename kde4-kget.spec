@@ -12,12 +12,12 @@
 Summary:	File downloand manager
 Summary(pl.UTF-8):	Zarządca ściągania plików
 Name:		kde4-%{orgname}
-Version:	4.14.0
+Version:	4.14.3
 Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://download.kde.org/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	1d32f949d6366809b14ee82954c0e44b
+# Source0-md5:	e8168d2e57e309690595051cc172fe92
 URL:		http://www.kde.org/
 BuildRequires:	Qt3Support-devel >= %{qtver}
 BuildRequires:	QtOpenGL-devel >= %{qtver}
